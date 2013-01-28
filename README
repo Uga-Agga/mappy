@@ -1,0 +1,29 @@
+Erstellen von Uga-Agga-Karten mit MappyWin32
+--------------------------------------------
+
+Enthalten sind folgende Dateien:
+
+doc\tutorial.html
+doc\tutorial.txt
+  eine Anleitung jeweils im HTML und im Text Format.
+
+example\example.FMP
+  eine Beispielkarte
+
+example\example.txt
+  das Ergebnis des Exports der Beispielkarte
+
+plugin\UAExporter.lua
+  das Export-Plugin für MappyWin32
+
+terrain-picture\ua-terrain.bmp
+  die verwendeten Terraingrafiken
+
+COPYING
+  eine Kopie der GPL unter der alle beigelegten Dateien vertrieben wird
+
+README
+  diese Datei
+
+
+Marcus Lunzenauer <mlunzena@uos.de> am 27.03.2005
